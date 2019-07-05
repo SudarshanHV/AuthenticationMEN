@@ -1,5 +1,5 @@
 # AuthenticationMEN
-Has Authentication usingg MEN and a number of modules
+Has Authentication using MEN and a number of modules
 npm install these:
 express
 mongoose
